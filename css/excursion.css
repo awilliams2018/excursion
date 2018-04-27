@@ -7,10 +7,15 @@ h1, h2 {
 	text-align: center;
 
 }
-a {
+h4 {
 	color: aquamarine; 
-	font-size: 16pt; 
+	font-size: 16px; 
 	text-align: center; 
 	position: relative; 
 	text-decoration: underline;
+}
+h1 {
+	font-size: 50px; 
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
+	font-weight: normal; 
 }
